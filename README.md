@@ -1,50 +1,51 @@
-<h1 align="center">Hi, I'm Niraj Fating 👋</h1>
+# 👋 Hi, I'm Niraj Fating
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=888888&size=22&center=true&vCenter=true&width=600&lines=Automation+Tester+in+progress;B.Tech+Student;Java+%7C+Python+%7C+QA" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;B.Tech+3rd+Year+Student;Future+Automation+Tester+🚀;Java+%7C+Python+%7C+QA+Enthusiast" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 About Me
 
 * 🎓 B.Tech 3rd Year
 * 🧪 Future Automation Tester
-* 💡 Interested in Testing, QA & Development
+* 💡 Passionate about QA, Testing & Development
 
 ---
 
-### ⚙️ Tech Stack
+## 🛠️ Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Niraj-Fating&show_icons=true&theme=default"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Niraj-Fating&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niraj-Fating&theme=radical" height="180"/>
 </p>
 
 ---
 
-### 🚀 Featured Work
+## 🐍 Contribution Snake  
 
-* 🔹 E-Newspaper App (AI + TTS)
-* 🔹 File Converter Tool (Upcoming)
-
----
-
-### 🐍 Contribution
-
-<p>
-  <img src="https://raw.githubusercontent.com/Niraj-Fating/Niraj-Fating/output/github-contribution-grid-snake.svg"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Niraj-Fating/Niraj-Fating/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-### 🌐 Connect
+## 🌐 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/Niraj-Fating)
+<p align="center">
+  <a href="https://www.linkedin.com/in/niraj-fating-37abb12a8/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/Niraj-Fating">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
+</p>
