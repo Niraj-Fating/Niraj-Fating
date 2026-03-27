@@ -34,7 +34,7 @@
 ## 🎥 Project Demo
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Your+Project+Demo+GIF" />
+  <img src="assets/demo.gif" width="600" style="border-radius:10px;"/>
 </p>
 
 ---
@@ -50,6 +50,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/niraj-fating-37abb12a8/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/Niraj-Fating">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
 </p>
