@@ -1,34 +1,20 @@
-<h1 align="center">🌸 Niraj Fating 🌸</h1>
+# 👋 Hi, I'm Niraj Fating
 
-<p align="center">
-💻 B.Tech Student | 🤖 Future Automation Tester | 📊 Data Enthusiast
-</p>
+![Typing SVG](...)
 
----
+## 🚀 About Me
+- B.Tech 3rd Year
+- Future Automation Tester
 
-## 🌷 About Me
-- 🎓 B.Tech 3rd Year Student
-- 💡 Interested in Software Testing & Automation
-- 🚀 Currently learning Selenium & DevOps
-
----
-
-## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-blue)
-![Java](https://img.shields.io/badge/Java-orange)
-![SQL](https://img.shields.io/badge/MySQL-blue)
-![Git](https://img.shields.io/badge/Git-black)
-
----
+## 🛠️ Tech Stack
+![Java](...)
+![Python](...)
 
 ## 📊 GitHub Stats
+![Stats](...)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+## 🎥 Project Demo
+![Demo](...)
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
-- Email: your@email.com
+## 🐍 Contribution Snake
+![Snake](...)
