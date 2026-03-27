@@ -31,14 +31,6 @@
 
 ---
 
-## 🎥 Project Demo
-
-<p align="center">
-  <img src="assets/demo.gif" width="600" style="border-radius:10px;"/>
-</p>
-
----
-
 ## 🐍 Contribution Snake  
 
 <p align="center">
