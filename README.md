@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Niraj Fating</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Automation+Tester+🚀;B.Tech+3rd+Year+Student;Quality Assurance+%7C+Java+%7C+Python;Building+Real+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Automation+Tester+in+Making+🚀;B.Tech+3rd+Year+Student;QA+%7C+Java+%7C+Python;Building+Real+Projects" />
 </p>
 
 ---
