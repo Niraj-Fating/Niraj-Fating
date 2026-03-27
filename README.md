@@ -1,25 +1,34 @@
-## Hi there 👋 I'm Niraj Fating
+<h1 align="center">🌸 Niraj Fating 🌸</h1>
 
-🎓 CS & Business Systems student from Nagpur, passionate about using tech to solve real business problems.
-
-- 🔭 I'm currently working on **automation scripts to simplify daily tasks**
-- 🌱 I'm currently learning **automation tools (Selenium, n8n, Python scripting)**
-- 👯 I'm looking to collaborate on **beginner-friendly open source projects**
-- 🔍 I'm looking for **internship opportunities in tech & business roles**
-- 💬 Ask me about **automation, CS fundamentals, or business tech**
-- 📫 How to reach me: **nirajfating@email.com**
-- ⚡ Fun fact: **I draw and run to stay creative and focused!**
+<p align="center">
+💻 B.Tech Student | 🤖 Future Automation Tester | 📊 Data Enthusiast
+</p>
 
 ---
 
-### 🛠️ Tools & Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+## 🌷 About Me
+- 🎓 B.Tech 3rd Year Student
+- 💡 Interested in Software Testing & Automation
+- 🚀 Currently learning Selenium & DevOps
 
 ---
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niraj-fating-37abb12a8/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nirajfating.dev@gmail.com)
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-blue)
+![Java](https://img.shields.io/badge/Java-orange)
+![SQL](https://img.shields.io/badge/MySQL-blue)
+![Git](https://img.shields.io/badge/Git-black)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/YOUR_LINK
+- Email: your@email.com
