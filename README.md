@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-* 🎓 B.Tech 3rd Year
+* 🎓 B.Tech 4th Year
 * 🧪 Future Automation Tester
 * 💡 Passionate about QA, Testing & Development
 
