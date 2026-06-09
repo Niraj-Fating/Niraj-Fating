@@ -60,6 +60,50 @@ alt="GitHub Streak Stats" />
 
 </div>
 
+## ⚙️ Tech I Use
+
+### 🤖 AI / Machine Learning
+
+![Python](https://img.shields.io/badge/Python-0A192F?style=flat-square&logo=python&logoColor=00D9FF)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-112240?style=flat-square&logo=python&logoColor=00D9FF)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-112240?style=flat-square&logo=openai&logoColor=00D9FF)
+![NLP](https://img.shields.io/badge/NLP-112240?style=flat-square&logo=googlegemini&logoColor=00D9FF)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-112240?style=flat-square&logo=googleanalytics&logoColor=00D9FF)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-112240?style=flat-square&logo=scikit-learn&logoColor=F7931E)
+![NumPy](https://img.shields.io/badge/NumPy-112240?style=flat-square&logo=numpy&logoColor=4DABCF)
+![Pandas](https://img.shields.io/badge/Pandas-112240?style=flat-square&logo=pandas&logoColor=FFFFFF)
+
+### 🧪 Testing & Quality Assurance
+
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-0A192F?style=flat-square&logo=testing-library&logoColor=00D9FF)
+![Automation Testing](https://img.shields.io/badge/Automation%20Testing-0A192F?style=flat-square&logo=selenium&logoColor=43B02A)
+![Selenium](https://img.shields.io/badge/Selenium-0A192F?style=flat-square&logo=selenium&logoColor=43B02A)
+![QA Engineering](https://img.shields.io/badge/QA%20Engineering-0A192F?style=flat-square&logo=checkmarx&logoColor=00D9FF)
+![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-0A192F?style=flat-square&logo=jira&logoColor=00D9FF)
+![Test Cases](https://img.shields.io/badge/Test%20Cases-0A192F?style=flat-square&logo=task&logoColor=00D9FF)
+
+### 👨‍💻 Languages
+
+![Python](https://img.shields.io/badge/Python-112240?style=flat-square&logo=python&logoColor=00D9FF)
+![Java](https://img.shields.io/badge/Java-112240?style=flat-square&logo=openjdk&logoColor=FF6B00)
+![C++](https://img.shields.io/badge/C++-112240?style=flat-square&logo=cplusplus&logoColor=00599C)
+![SQL](https://img.shields.io/badge/SQL-112240?style=flat-square&logo=mysql&logoColor=00D9FF)
+
+### 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-0A192F?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0A192F?style=flat-square&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS%20Code-0A192F?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-0A192F?style=flat-square&logo=jupyter&logoColor=F37626)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-0A192F?style=flat-square&logo=googlecolab&logoColor=F9AB00)
+![Power BI](https://img.shields.io/badge/Power%20BI-0A192F?style=flat-square&logo=powerbi&logoColor=F2C811)
+![Microsoft Office](https://img.shields.io/badge/MS%20Office-0A192F?style=flat-square&logo=microsoftoffice&logoColor=D83B01)
+
+### 📚 Core CS Concepts
+
+![DBMS](https://img.shields.io/badge/DBMS-112240?style=flat-square&logo=databricks&logoColor=00D9FF)
+![OOPs](https://img.shields.io/badge/OOPs-112240?style=flat-square&logo=java&logoColor=FF6B00)
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering-112240?style=flat-square&logo=github&logoColor=FFFFFF)
 
 
 ## 📈 Activity Graph
