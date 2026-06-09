@@ -1,153 +1,38 @@
-<h1 align="center">👋 Hi, I'm Niraj Fating</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;B.Tech+CSBS+Student;AI%2FML+%7C+Python+%7C+Web+Development;Future+Automation+Tester+%F0%9F%9A%80;Open+Source+%26+GSoC+Aspirant" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=180&section=header&text=Niraj%20Fating&fontSize=52&fontAlignY=36&desc=AI%2FML%20Enthusiast%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20Future%20Automation%20Tester&descAlignY=58&fontColor=fff&descSize=16" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Niraj-Fating&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
+</div>
 
----
+<div align="center">
 
-## 🚀 About Me
+⚡ &nbsp; *Building intelligent systems, testing smarter, and leveling up one project at a time.* &nbsp; ⚡
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&lines=AI%2FML+%26+Python+Developer+%F0%9F%A4%96;Future+Automation+Tester+%26+QA+Engineer+%F0%9F%A7%AA;Web+Development+%26+Streamlit+Builder+%F0%9F%92%BB;Open+Source+%26+GSoC+Aspirant+%F0%9F%9A%80;Always+learning%2C+building+and+improving+%E2%9A%A1)](https://git.io/typing-svg)
 
-- 🎓 B.Tech Computer Science & Business Systems student  
-- 🤖 Interested in **Artificial Intelligence, Machine Learning, Generative AI, and Automation**
-- 🧪 Future **Automation Tester / QA Engineer**
-- 💻 Passionate about **Python, Java, Web Development, Software Testing, and Open Source**
-- 🌱 Currently learning **GitHub, Open Source Contribution, Testing Tools, and AI-based Applications**
-- 🎯 Preparing for **Internships, Fresher Roles, and Google Summer of Code**
-- ⚡ I enjoy building practical projects that solve real-world problems  
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niraj-fating-37abb12a8/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Niraj-Fating)
+[![Portfolio](https://img.shields.io/badge/Portfolio-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/nirajfating.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirajfating.23@stvincentngp.edu.in)
 
-## 🛠️ Tech Stack
+<br/>
 
-### 👨‍💻 Programming Languages
+<img src="https://komarev.com/ghpvc/?username=Niraj-Fating&label=Profile%20Views&color=00d9ff&style=for-the-badge" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js" />
-</p>
-
-### 🤖 AI / ML / Data Science
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Science-1F77B4?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
-### 🧪 Testing & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img src="https://img.shields.io/badge/Manual%20Testing-4CAF50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation%20Testing-2196F3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/QA%20Engineering-9C27B0?style=for-the-badge" />
-</p>
+</div>
 
 ---
 
-## 📌 Featured Projects
+## ⚡ About Me
 
-### 🌞 Solar Power Prediction Using Machine Learning
-A machine learning-based web application that predicts solar power generation using environmental parameters such as temperature, humidity, solar irradiance, and wind speed.
-
-**Tech Stack:** Python, Machine Learning, Streamlit, Pandas, Scikit-learn  
-
----
-
-### ♻️ Waste Classification Using Deep Learning
-A deep learning-based image classification project that classifies waste into different categories using CNN and image processing techniques.
-
-**Tech Stack:** Python, TensorFlow, Keras, CNN, Deep Learning  
-
----
-
-### 📚 Smart Study Planner
-A smart planning system designed to help students organize study schedules, manage subjects, and improve productivity.
-
-**Tech Stack:** Python, Automation, Web App / Streamlit  
-
----
-
-## 🌍 Open Source & GSoC Journey
-
-I am currently preparing for open-source contribution and Google Summer of Code by:
-
-- ✅ Learning Git and GitHub workflow  
-- ✅ Exploring beginner-friendly open-source repositories  
-- ✅ Improving project documentation  
-- ✅ Working on real-world AI/ML and web development projects  
-- ✅ Practicing issue tracking, pull requests, and code collaboration  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niraj-Fating&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niraj-Fating&theme=radical" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj-Fating&layout=compact&theme=radical" height="180"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Niraj-Fating&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Niraj-Fating/Niraj-Fating/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niraj-Fating&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/niraj-fating-37abb12a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-Niraj%20Fating-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/Niraj-Fating">
-    <img src="https://img.shields.io/badge/GitHub-Niraj--Fating-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://linktr.ee/nirajfating.dev">
-    <img src="https://img.shields.io/badge/Portfolio-Linktree-green?style=for-the-badge&logo=linktree">
-  </a>
-</p>
-
----
-
-## 💡 Quote
-
-<p align="center">
-  <i>"Learning, building, testing, and contributing one project at a time."</i>
-</p>
-
----
-
-<p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
-</p>
+```python
+class NirajFating:
+    role          = ["AI/ML Enthusiast", "Python Developer", "Future Automation Tester"]
+    education     = "B.Tech Computer Science & Business Systems"
+    building      = "AI/ML, automation, and web-based projects with real-world impact"
+    interests     = ["Machine Learning", "Generative AI", "Web Development", "Software Testing"]
+    learning      = ["DSA", "Open Source", "Selenium", "Automation Testing", "Advanced ML"]
+    goal          = "To become a skilled Software Developer / Automation QA Engineer"
+    mindset       = "Learn. Build. Test. Improve. Repeat."
