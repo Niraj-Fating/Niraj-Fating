@@ -8,7 +8,7 @@
 
 ⚡ &nbsp; *Building intelligent systems, testing smarter, and leveling up one project at a time.* &nbsp; ⚡
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&lines=AI%2FML+%26+Python+Developer+%F0%9F%A4%96;Future+Automation+Tester+%26+QA+Engineer+%F0%9F%A7%AA;Streamlit+Builder+%F0%9F%92%BB;Open+Source+%26+GSoC+Aspirant+%F0%9F%9A%80;Always+learning%2C+building+and+improving+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&lines=AI%2FML+%26+Python+Developer+%F0%9F%A4%96;Future+Automation+Tester+%26+QA+Engineer+%F0%9F%A7%AA;Software+Testing+%26+Quality+Assurance+%F0%9F%94%8D;Open+Source+%26+GSoC+Aspirant+%F0%9F%9A%80;Always+learning%2C+building+and+improving+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
@@ -31,8 +31,24 @@
 class NirajFating:
     role          = ["AI/ML Enthusiast", "Python Developer", "Future Automation Tester"]
     education     = "B.Tech Computer Science & Business Systems"
-    building      = "AI/ML, automation, and web-based projects with real-world impact"
-    interests     = ["Machine Learning", "Generative AI", "Web Development", "Software Testing"]
+    building      = "AI/ML, automation, and testing-focused projects with real-world impact"
+    interests     = ["Machine Learning", "Generative AI", "Software Testing", "Quality Assurance"]
     learning      = ["DSA", "Open Source", "Selenium", "Automation Testing", "Advanced ML"]
-    goal          = "To become a skilled Software Developer / Automation QA Engineer"
+    goal          = "To become a skilled Automation QA Engineer / AI-ML Developer"
     mindset       = "Learn. Build. Test. Improve. Repeat."
+````
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Niraj-Fating/Niraj-Fating/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+
+</div>
+
+---
+
+```
+```
