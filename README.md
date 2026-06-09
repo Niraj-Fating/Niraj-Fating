@@ -8,7 +8,7 @@
 
 ⚡ &nbsp; *Building intelligent systems, testing smarter, and leveling up one project at a time.* &nbsp; ⚡
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&lines=AI%2FML+%26+Python+Developer+%F0%9F%A4%96;Future+Automation+Tester+%26+QA+Engineer+%F0%9F%A7%AA;Web+Development+%26+Streamlit+Builder+%F0%9F%92%BB;Open+Source+%26+GSoC+Aspirant+%F0%9F%9A%80;Always+learning%2C+building+and+improving+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&lines=AI%2FML+%26+Python+Developer+%F0%9F%A4%96;Future+Automation+Tester+%26+QA+Engineer+%F0%9F%A7%AA;Streamlit+Builder+%F0%9F%92%BB;Open+Source+%26+GSoC+Aspirant+%F0%9F%9A%80;Always+learning%2C+building+and+improving+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
