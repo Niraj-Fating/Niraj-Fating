@@ -50,5 +50,41 @@ class NirajFating:
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img 
+src="https://streak-stats.demolab.com?user=Niraj-Fating&theme=tokyonight&hide_border=true&background=0A192F&ring=00D9FF&fire=FF6B00&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" 
+alt="GitHub Streak Stats" />
+
+</div>
+
+
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=Niraj-Fating&bg_color=0A192F&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true&custom_title=Niraj%20Fating's%20Contribution%20Graph" 
+alt="Niraj Fating's GitHub Activity Graph" />
+
+</div>
+
+
+<div align="center">
+
+⚡ &nbsp; 💻 &nbsp; 🤖 &nbsp; 🧪 &nbsp; 🚀 &nbsp; 🌍 &nbsp; ⚡
+
+*crafted with code, logic and consistency* &nbsp;·&nbsp; Niraj Fating
+
+[![](https://visitcount.itsvg.in/api?id=Niraj-Fating&icon=5&color=9)](https://visitcount.itsvg.in)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=100&section=footer" />
+
+</div>
 ```
-```
+
+
+
